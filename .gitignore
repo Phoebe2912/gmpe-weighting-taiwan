@@ -1,0 +1,4 @@
+data/raw/
+results/*/bootstrap_*/parts/
+.Rhistory
+.RData
